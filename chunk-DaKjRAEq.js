@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-CUAAGFA62.js`).then(t=>t.InvoiceListComponent),data:{title:`Invoice Management`}},{path:`create`,loadComponent:()=>import(`./chunk-DKo1nVod2.js`).then(t=>t.InvoiceFormComponent),data:{title:`Create Invoice`}}];export{o as routes};

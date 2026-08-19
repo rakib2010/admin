@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-kmd5S6sF2.js`).then(t=>t.CategoryListComponent),data:{title:`Category Management`}}];export{o as routes};

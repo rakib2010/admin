@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-Bi-PoUXX.js`).then(t=>t.CustomerListComponent),data:{title:`Customer Management`}}];export{o as routes};
