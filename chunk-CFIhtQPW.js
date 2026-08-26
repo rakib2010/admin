@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-Db_F-11Y.js`).then(t=>t.BannerListComponent),data:{title:`Banner Management`}}];export{o as routes};

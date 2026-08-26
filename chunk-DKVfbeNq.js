@@ -1,0 +1,1 @@
+var e=[{path:``,loadComponent:()=>import(`./chunk-D6dqUAQB.js`).then(t=>t.OrderListComponent),data:{title:`Order Management`}},{path:`:id`,loadComponent:()=>import(`./chunk-FUMaq99J.js`).then(t=>t.OrderDetailComponent),data:{title:`Order Details`}}];export{e as routes};

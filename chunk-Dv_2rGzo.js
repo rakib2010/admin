@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-CliKWhSu.js`).then(t=>t.PaymentsComponent),data:{title:`Payments`}}];export{o as routes};

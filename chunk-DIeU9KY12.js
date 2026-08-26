@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-irEj9GMv.js`).then(t=>t.CartListComponent),data:{title:`Active Carts`}}];export{o as routes};

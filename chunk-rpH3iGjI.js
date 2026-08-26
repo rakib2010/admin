@@ -1,0 +1,1 @@
+var e=[{path:``,loadComponent:()=>import(`./chunk-B9qkKdMt.js`).then(t=>t.ReturnListComponent),data:{title:`Return Management`}},{path:`create`,loadComponent:()=>import(`./chunk-DlUFIiI52.js`).then(t=>t.ReturnFormComponent),data:{title:`Create Return Request`}}];export{e as routes};

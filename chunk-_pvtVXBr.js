@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-IKf-Voo7.js`).then(t=>t.ProductListComponent),data:{title:`Product Management`}},{path:`stock-history`,loadComponent:()=>import(`./chunk-DaiIp9Y02.js`).then(t=>t.StockHistoryComponent),data:{title:`Stock History`}}];export{o as routes};
