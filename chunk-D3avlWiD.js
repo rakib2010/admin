@@ -1,0 +1,1 @@
+import{D as Fe,br as le}from"./chunk-CNvvMoDe.js";import{Bn as e,vn as ru}from"./main-KR47Z6Z4.js";var o=class t{constructor(n){this.http=n;this.base=`${e.apiUrl}/cart`}getAllActiveCarts(){return this.http.get(`${this.base}/admin/all`)}static{this.ɵfac=function(m){return new(m||t)(Fe(ru))}}static{this.ɵprov=le({token:t,factory:t.ɵfac,providedIn:`root`})}};export{o as t};

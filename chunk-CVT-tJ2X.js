@@ -1,0 +1,1 @@
+var e=[{path:``,loadComponent:()=>import(`./chunk-CSifMyIt2.js`).then(t=>t.ReviewListComponent),data:{title:`Review Management`}}];export{e as routes};

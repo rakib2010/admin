@@ -1,0 +1,1 @@
+var t=[{path:``,loadComponent:()=>import(`./chunk-Cn8PFPFy2.js`).then(o=>o.CouponListComponent),data:{title:`Coupon Management`}}];export{t as routes};

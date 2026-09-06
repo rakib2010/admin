@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-Cb8VTMPo.js`).then(t=>t.SettingsComponent),data:{title:`Settings`}}];export{o as routes};

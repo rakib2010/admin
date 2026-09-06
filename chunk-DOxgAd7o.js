@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-BfuxL1002.js`).then(t=>t.SalesReportsComponent),data:{title:`Sales Reports`}}];export{o as routes};

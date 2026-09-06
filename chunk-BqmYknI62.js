@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-DUrGkO3y.js`).then(t=>t.CourierListComponent),data:{title:`Courier Management`}}];export{o as routes};

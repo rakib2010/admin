@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-I5GYNKIR2.js`).then(t=>t.InventoryComponent),data:{title:`Inventory`}}];export{o as routes};
